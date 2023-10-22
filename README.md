@@ -1,2 +1,2 @@
 # hangman
-A trial repository for learning how to use Git.
+A trial repository that I used for learning how to use Git.
